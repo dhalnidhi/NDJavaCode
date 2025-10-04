@@ -66,5 +66,5 @@ public class AutomationExcerciseSteps {
     public void i_close_the_application() {
         closeApp();
     }
-
+//adding the data
 }
